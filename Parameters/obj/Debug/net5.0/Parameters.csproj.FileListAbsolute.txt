@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\Parameters.exe
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\Parameters.deps.json
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\Parameters.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\Parameters.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\Parameters.dll
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\ref\Parameters.dll
+D:\Important Documents\GitHub Codes\C#\Parameters\bin\Debug\net5.0\Parameters.pdb
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.dll
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\ref\Parameters.dll
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.pdb
+D:\Important Documents\GitHub Codes\C#\Parameters\obj\Debug\net5.0\Parameters.genruntimeconfig.cache
